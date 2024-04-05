@@ -1,0 +1,50 @@
+/* .PostConatiner { */
+
+/* } */
+
+.SubpostConatiner{
+    width:93%;
+    background-color:white ;
+    margin-top: 20px;
+    margin-left: 20px;
+    border-radius: 10px;
+}  
+.PostImage {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    margin-left: 10px;
+}
+.PostImages{
+    width: 450px;
+    height:450px;
+    object-fit: contain;
+}
+.IconforPost{
+    width: 20px;
+    margin-left: 20px;
+    
+}
+.moreicons {
+    width: 30px;
+    margin-left: 300px ;
+}
+.CommentLineInput{
+    width: 24pc;
+    margin-left: 10px;
+    border: none;
+    /* height: 6vh;    */
+}
+.addComment{
+    padding:8px ;
+    border: none;
+    background-color: black;
+    color: white;
+    border-radius: 6px;
+    margin-left: 36px;
+    cursor: pointer;
+    padding-left: 20px;
+    padding-right: 20px;
+
+
+}
